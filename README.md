@@ -13,5 +13,5 @@ Team:
 Kaigu Ann: Full stack developer
 Zawadi Muthoni: Machine learning engineer
 Levi Mutugi: Backend developer
-Joy Leila: Machine learning engineer
+Leila Kendi: Machine learning engineer
 Matere Hans: Machine learning and AI engineer
